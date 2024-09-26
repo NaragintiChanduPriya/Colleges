@@ -1,0 +1,15 @@
+*{
+    background-color: beige;
+}
+.table{
+    background-color: rgb(160, 243, 36);
+    border: 1px solid black;
+}
+.table th{
+    background-color: rgb(243, 102, 36);
+    font-weight: bold;
+    text-align: center;
+}
+.table td{
+    text-align: center;
+}
